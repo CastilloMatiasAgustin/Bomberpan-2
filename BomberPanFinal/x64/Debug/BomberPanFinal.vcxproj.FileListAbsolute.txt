@@ -1,0 +1,2 @@
+C:\Users\Castillo\source\repos\BomberPanFinal\x64\Debug\BomberPanFinal.exe
+C:\Users\Castillo\source\repos\BomberPanFinal\x64\Debug\BomberPanFinal.pdb

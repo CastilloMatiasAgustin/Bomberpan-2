@@ -1,0 +1,7 @@
+﻿  Bomber.cpp
+  Menu.cpp
+C:\Users\Castillo\source\repos\BomberPanFinal\Menu.cpp(74,18): warning C4353: se ha utilizado una extensión no estándar: constante 0 como expresión de función. Utilice en su lugar la función intrínseca '__noop'
+C:\Users\Castillo\source\repos\BomberPanFinal\Menu.cpp(74,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  jugador.cpp
+  Generando código...
+  BomberPanFinal.vcxproj -> C:\Users\Castillo\source\repos\BomberPanFinal\x64\Debug\BomberPanFinal.exe
